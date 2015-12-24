@@ -22,7 +22,7 @@
 
 **2.3** Queda estrictamente prohibido hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
 
-**2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ).
+**2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube.
 
 **Procedimiento** 
 
