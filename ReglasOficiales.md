@@ -22,7 +22,7 @@
 
 **2.3** Queda estrictamente prohibido hacer publicaciones que sean escritas en su mayoría con mayúsculas a modo de énfasis.
 
-**2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acordadores en el link ( Adfly, Shorte, Etc ) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube.
+**2.4** Queda estrictamente prohibido publicar material didáctico digital (Cursos, Libros, Videotutoriales, etc.) que contengan acortadores en el link ( Adfly, Shorte, Etc ) o redirecciones a blogs con dichos acortadores, solo se permiten aportes con enlace directo a proveedores de almacenamiento en la nube.
 
 **Procedimiento** 
 
@@ -34,11 +34,11 @@
 **Publicidad**:
 ----------
 
-**3.1** Quedan estrictamente prohibidas publicaciones y comentarios promocionando otras comunidades que no pertenescan a Comunidades.io, a menos que se pida permiso a un administrador.
+**3.1** Quedan estrictamente prohibidas publicaciones y comentarios promocionando otras comunidades que no pertenezcan a Comunidades.io, a menos que se pida permiso a un administrador.
 
 **3.2** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una Fanpage de Facebook con el fin de conseguir más Likes y no aportar a la Comunidad.
 
-**3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta que no este realcionada con Comunidades.io.
+**3.3** Quedan estrictamente prohibidas las publicaciones que hagan referencia a una marca de algún Producto o Servicio con el fin de conseguir una venta que no este relacionada con Comunidades.io.
 
 **Procedimiento**  
 
